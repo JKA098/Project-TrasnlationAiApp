@@ -2,7 +2,6 @@
 
 ### AI-Powered Language Translator with Real-Time Results
 
-### Live Demo: (Paste your deployed Netlify link here)
 ### 🔗 Live App URL: https://polyglot-ai-translation-app.netlify.app/
 
 ### Tech Stack: 
@@ -123,6 +122,7 @@ Run the project using Live Server or any static hosting.
 - 🔹 Add speech synthesis
 - 🔹 Save translation history
 - 🔹 Support automatic language detection
+
 
 
 
